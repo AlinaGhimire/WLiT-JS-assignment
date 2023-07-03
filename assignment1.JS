@@ -9,7 +9,7 @@ function ispositive (num) {
             return "Given number is zero";
         }
     }
-console.log(ispositive(3))
+console.log(ispositive(-3))
 console.log(ispositive(4))
 console.log(ispositive(0))
 
